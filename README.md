@@ -33,6 +33,7 @@ To get the project up and running on your local machine for development and test
    ```
 
 4. **Environment Variables**
+
    Set up necessary environment variables or add them to a .env file.
 
 5. **Run the Application**
@@ -48,7 +49,3 @@ After installation, the application can be used as a backend service for web app
 ## Testing
 
 The project includes JSON datasets for testing purposes. You can use these datasets to test the database operations and ensure the APIs are functioning as expected.
-
-## Contributing
-
-Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.

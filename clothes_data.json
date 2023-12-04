@@ -1,4 +1,5 @@
 [
+<<<<<<< Updated upstream
   {
     "category": "Dresses",
     "type": "Cocktail Dress",
@@ -899,4 +900,1506 @@
     "file_path": "/path/to/white_cocktail_dress.jpg",
     "user_id": "4"
   }
+=======
+    {
+        "category": "Dresses",
+        "type": "Cocktail Dress",
+        "color": "Yellow",
+        "brand": "Brand F",
+        "occasion": "Outdoor",
+        "file_path": "/path/to/yellow_cocktail_dress.jpg",
+        "user_id": "8",
+        "category_id": "dresses_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Tops",
+        "type": "Sweater",
+        "color": "Blue",
+        "brand": "Brand I",
+        "occasion": "Party",
+        "file_path": "/path/to/blue_sweater.jpg",
+        "user_id": "10",
+        "category_id": "tops_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Bottoms",
+        "type": "Skirt",
+        "color": "Purple",
+        "brand": "Brand E",
+        "occasion": "Casual",
+        "file_path": "/path/to/purple_skirt.jpg",
+        "user_id": "9",
+        "category_id": "bottoms_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Bottoms",
+        "type": "Shorts",
+        "color": "Grey",
+        "brand": "Brand C",
+        "occasion": "Sport",
+        "file_path": "/path/to/grey_shorts.jpg",
+        "user_id": "4",
+        "category_id": "bottoms_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Outerwear",
+        "type": "Coat",
+        "color": "Yellow",
+        "brand": "Brand D",
+        "occasion": "Sport",
+        "file_path": "/path/to/yellow_coat.jpg",
+        "user_id": "1",
+        "category_id": "outerwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Outerwear",
+        "type": "Coat",
+        "color": "Green",
+        "brand": "Brand C",
+        "occasion": "Casual",
+        "file_path": "/path/to/green_coat.jpg",
+        "user_id": "2",
+        "category_id": "outerwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Dresses",
+        "type": "Evening Gown",
+        "color": "Grey",
+        "brand": "Brand F",
+        "occasion": "Outdoor",
+        "file_path": "/path/to/grey_evening_gown.jpg",
+        "user_id": "7",
+        "category_id": "dresses_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Bottoms",
+        "type": "Trousers",
+        "color": "Purple",
+        "brand": "Brand D",
+        "occasion": "Outdoor",
+        "file_path": "/path/to/purple_trousers.jpg",
+        "user_id": "5",
+        "category_id": "bottoms_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Bottoms",
+        "type": "Skirt",
+        "color": "Yellow",
+        "brand": "Brand E",
+        "occasion": "Sport",
+        "file_path": "/path/to/yellow_skirt.jpg",
+        "user_id": "10",
+        "category_id": "bottoms_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Tops",
+        "type": "Blouse",
+        "color": "White",
+        "brand": "Brand E",
+        "occasion": "Formal",
+        "file_path": "/path/to/white_blouse.jpg",
+        "user_id": "3",
+        "category_id": "tops_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Tops",
+        "type": "T-shirt",
+        "color": "White",
+        "brand": "Brand D",
+        "occasion": "Sport",
+        "file_path": "/path/to/white_t-shirt.jpg",
+        "user_id": "7",
+        "category_id": "tops_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Dresses",
+        "type": "Maxi Dress",
+        "color": "Grey",
+        "brand": "Brand C",
+        "occasion": "Party",
+        "file_path": "/path/to/grey_maxi_dress.jpg",
+        "user_id": "8",
+        "category_id": "dresses_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Dresses",
+        "type": "Maxi Dress",
+        "color": "White",
+        "brand": "Brand G",
+        "occasion": "Outdoor",
+        "file_path": "/path/to/white_maxi_dress.jpg",
+        "user_id": "5",
+        "category_id": "dresses_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Outerwear",
+        "type": "Blazer",
+        "color": "Brown",
+        "brand": "Brand C",
+        "occasion": "Formal",
+        "file_path": "/path/to/brown_blazer.jpg",
+        "user_id": "10",
+        "category_id": "outerwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Bottoms",
+        "type": "Trousers",
+        "color": "Blue",
+        "brand": "Brand A",
+        "occasion": "Party",
+        "file_path": "/path/to/blue_trousers.jpg",
+        "user_id": "5",
+        "category_id": "bottoms_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Footwear",
+        "type": "Boots",
+        "color": "Blue",
+        "brand": "Brand A",
+        "occasion": "Sport",
+        "file_path": "/path/to/blue_boots.jpg",
+        "user_id": "2",
+        "category_id": "footwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Tops",
+        "type": "Cardigan",
+        "color": "Red",
+        "brand": "Brand I",
+        "occasion": "Outdoor",
+        "file_path": "/path/to/red_cardigan.jpg",
+        "user_id": "5",
+        "category_id": "tops_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Footwear",
+        "type": "Heels",
+        "color": "White",
+        "brand": "Brand A",
+        "occasion": "Party",
+        "file_path": "/path/to/white_heels.jpg",
+        "user_id": "4",
+        "category_id": "footwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Bottoms",
+        "type": "Jeans",
+        "color": "Blue",
+        "brand": "Brand I",
+        "occasion": "Sport",
+        "file_path": "/path/to/blue_jeans.jpg",
+        "user_id": "6",
+        "category_id": "bottoms_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Outerwear",
+        "type": "Coat",
+        "color": "Yellow",
+        "brand": "Brand E",
+        "occasion": "Outdoor",
+        "file_path": "/path/to/yellow_coat.jpg",
+        "user_id": "10",
+        "category_id": "outerwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Tops",
+        "type": "Blouse",
+        "color": "Yellow",
+        "brand": "Brand C",
+        "occasion": "Outdoor",
+        "file_path": "/path/to/yellow_blouse.jpg",
+        "user_id": "3",
+        "category_id": "tops_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Bottoms",
+        "type": "Trousers",
+        "color": "Blue",
+        "brand": "Brand I",
+        "occasion": "Sport",
+        "file_path": "/path/to/blue_trousers.jpg",
+        "user_id": "9",
+        "category_id": "bottoms_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Bottoms",
+        "type": "Shorts",
+        "color": "Purple",
+        "brand": "Brand F",
+        "occasion": "Outdoor",
+        "file_path": "/path/to/purple_shorts.jpg",
+        "user_id": "5",
+        "category_id": "bottoms_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Outerwear",
+        "type": "Coat",
+        "color": "Brown",
+        "brand": "Brand D",
+        "occasion": "Sport",
+        "file_path": "/path/to/brown_coat.jpg",
+        "user_id": "9",
+        "category_id": "outerwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Bottoms",
+        "type": "Skirt",
+        "color": "White",
+        "brand": "Brand C",
+        "occasion": "Sport",
+        "file_path": "/path/to/white_skirt.jpg",
+        "user_id": "9",
+        "category_id": "bottoms_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Dresses",
+        "type": "Evening Gown",
+        "color": "Purple",
+        "brand": "Brand D",
+        "occasion": "Party",
+        "file_path": "/path/to/purple_evening_gown.jpg",
+        "user_id": "7",
+        "category_id": "dresses_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Bottoms",
+        "type": "Jeans",
+        "color": "Purple",
+        "brand": "Brand H",
+        "occasion": "Party",
+        "file_path": "/path/to/purple_jeans.jpg",
+        "user_id": "5",
+        "category_id": "bottoms_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Dresses",
+        "type": "Evening Gown",
+        "color": "Brown",
+        "brand": "Brand H",
+        "occasion": "Outdoor",
+        "file_path": "/path/to/brown_evening_gown.jpg",
+        "user_id": "1",
+        "category_id": "dresses_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Outerwear",
+        "type": "Coat",
+        "color": "Grey",
+        "brand": "Brand C",
+        "occasion": "Formal",
+        "file_path": "/path/to/grey_coat.jpg",
+        "user_id": "9",
+        "category_id": "outerwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Footwear",
+        "type": "Boots",
+        "color": "Grey",
+        "brand": "Brand D",
+        "occasion": "Outdoor",
+        "file_path": "/path/to/grey_boots.jpg",
+        "user_id": "3",
+        "category_id": "footwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Outerwear",
+        "type": "Jacket",
+        "color": "Red",
+        "brand": "Brand F",
+        "occasion": "Sport",
+        "file_path": "/path/to/red_jacket.jpg",
+        "user_id": "8",
+        "category_id": "outerwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Footwear",
+        "type": "Boots",
+        "color": "Blue",
+        "brand": "Brand H",
+        "occasion": "Party",
+        "file_path": "/path/to/blue_boots.jpg",
+        "user_id": "4",
+        "category_id": "footwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Bottoms",
+        "type": "Jeans",
+        "color": "Grey",
+        "brand": "Brand B",
+        "occasion": "Casual",
+        "file_path": "/path/to/grey_jeans.jpg",
+        "user_id": "8",
+        "category_id": "bottoms_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Tops",
+        "type": "Blouse",
+        "color": "Red",
+        "brand": "Brand C",
+        "occasion": "Party",
+        "file_path": "/path/to/red_blouse.jpg",
+        "user_id": "9",
+        "category_id": "tops_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Tops",
+        "type": "Sweater",
+        "color": "Yellow",
+        "brand": "Brand I",
+        "occasion": "Sport",
+        "file_path": "/path/to/yellow_sweater.jpg",
+        "user_id": "2",
+        "category_id": "tops_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Outerwear",
+        "type": "Blazer",
+        "color": "Purple",
+        "brand": "Brand F",
+        "occasion": "Formal",
+        "file_path": "/path/to/purple_blazer.jpg",
+        "user_id": "5",
+        "category_id": "outerwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Dresses",
+        "type": "Evening Gown",
+        "color": "Purple",
+        "brand": "Brand F",
+        "occasion": "Sport",
+        "file_path": "/path/to/purple_evening_gown.jpg",
+        "user_id": "7",
+        "category_id": "dresses_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Outerwear",
+        "type": "Raincoat",
+        "color": "Blue",
+        "brand": "Brand F",
+        "occasion": "Formal",
+        "file_path": "/path/to/blue_raincoat.jpg",
+        "user_id": "9",
+        "category_id": "outerwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Tops",
+        "type": "Blouse",
+        "color": "Red",
+        "brand": "Brand A",
+        "occasion": "Outdoor",
+        "file_path": "/path/to/red_blouse.jpg",
+        "user_id": "2",
+        "category_id": "tops_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Bottoms",
+        "type": "Trousers",
+        "color": "White",
+        "brand": "Brand I",
+        "occasion": "Outdoor",
+        "file_path": "/path/to/white_trousers.jpg",
+        "user_id": "7",
+        "category_id": "bottoms_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Outerwear",
+        "type": "Blazer",
+        "color": "Blue",
+        "brand": "Brand F",
+        "occasion": "Sport",
+        "file_path": "/path/to/blue_blazer.jpg",
+        "user_id": "7",
+        "category_id": "outerwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Dresses",
+        "type": "Cocktail Dress",
+        "color": "Blue",
+        "brand": "Brand D",
+        "occasion": "Formal",
+        "file_path": "/path/to/blue_cocktail_dress.jpg",
+        "user_id": "10",
+        "category_id": "dresses_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Bottoms",
+        "type": "Jeans",
+        "color": "Red",
+        "brand": "Brand A",
+        "occasion": "Outdoor",
+        "file_path": "/path/to/red_jeans.jpg",
+        "user_id": "7",
+        "category_id": "bottoms_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Tops",
+        "type": "Cardigan",
+        "color": "Yellow",
+        "brand": "Brand H",
+        "occasion": "Casual",
+        "file_path": "/path/to/yellow_cardigan.jpg",
+        "user_id": "10",
+        "category_id": "tops_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Footwear",
+        "type": "Heels",
+        "color": "Yellow",
+        "brand": "Brand A",
+        "occasion": "Party",
+        "file_path": "/path/to/yellow_heels.jpg",
+        "user_id": "6",
+        "category_id": "footwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Dresses",
+        "type": "Sundress",
+        "color": "Red",
+        "brand": "Brand D",
+        "occasion": "Outdoor",
+        "file_path": "/path/to/red_sundress.jpg",
+        "user_id": "4",
+        "category_id": "dresses_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Bottoms",
+        "type": "Skirt",
+        "color": "Blue",
+        "brand": "Brand H",
+        "occasion": "Sport",
+        "file_path": "/path/to/blue_skirt.jpg",
+        "user_id": "5",
+        "category_id": "bottoms_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Dresses",
+        "type": "Evening Gown",
+        "color": "Purple",
+        "brand": "Brand C",
+        "occasion": "Party",
+        "file_path": "/path/to/purple_evening_gown.jpg",
+        "user_id": "4",
+        "category_id": "dresses_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Dresses",
+        "type": "Maxi Dress",
+        "color": "Black",
+        "brand": "Brand B",
+        "occasion": "Formal",
+        "file_path": "/path/to/black_maxi_dress.jpg",
+        "user_id": "7",
+        "category_id": "dresses_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Dresses",
+        "type": "Maxi Dress",
+        "color": "Brown",
+        "brand": "Brand C",
+        "occasion": "Casual",
+        "file_path": "/path/to/brown_maxi_dress.jpg",
+        "user_id": "8",
+        "category_id": "dresses_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Outerwear",
+        "type": "Blazer",
+        "color": "Green",
+        "brand": "Brand E",
+        "occasion": "Sport",
+        "file_path": "/path/to/green_blazer.jpg",
+        "user_id": "2",
+        "category_id": "outerwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Tops",
+        "type": "Blouse",
+        "color": "Brown",
+        "brand": "Brand E",
+        "occasion": "Formal",
+        "file_path": "/path/to/brown_blouse.jpg",
+        "user_id": "10",
+        "category_id": "tops_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Bottoms",
+        "type": "Jeans",
+        "color": "Purple",
+        "brand": "Brand I",
+        "occasion": "Formal",
+        "file_path": "/path/to/purple_jeans.jpg",
+        "user_id": "7",
+        "category_id": "bottoms_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Tops",
+        "type": "Sweater",
+        "color": "Blue",
+        "brand": "Brand I",
+        "occasion": "Sport",
+        "file_path": "/path/to/blue_sweater.jpg",
+        "user_id": "2",
+        "category_id": "tops_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Footwear",
+        "type": "Boots",
+        "color": "Red",
+        "brand": "Brand I",
+        "occasion": "Party",
+        "file_path": "/path/to/red_boots.jpg",
+        "user_id": "8",
+        "category_id": "footwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Outerwear",
+        "type": "Coat",
+        "color": "Purple",
+        "brand": "Brand H",
+        "occasion": "Sport",
+        "file_path": "/path/to/purple_coat.jpg",
+        "user_id": "9",
+        "category_id": "outerwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Footwear",
+        "type": "Sandals",
+        "color": "Yellow",
+        "brand": "Brand C",
+        "occasion": "Casual",
+        "file_path": "/path/to/yellow_sandals.jpg",
+        "user_id": "5",
+        "category_id": "footwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Tops",
+        "type": "Cardigan",
+        "color": "Red",
+        "brand": "Brand E",
+        "occasion": "Party",
+        "file_path": "/path/to/red_cardigan.jpg",
+        "user_id": "2",
+        "category_id": "tops_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Footwear",
+        "type": "Sandals",
+        "color": "Green",
+        "brand": "Brand F",
+        "occasion": "Outdoor",
+        "file_path": "/path/to/green_sandals.jpg",
+        "user_id": "7",
+        "category_id": "footwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Bottoms",
+        "type": "Trousers",
+        "color": "Blue",
+        "brand": "Brand C",
+        "occasion": "Formal",
+        "file_path": "/path/to/blue_trousers.jpg",
+        "user_id": "7",
+        "category_id": "bottoms_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Dresses",
+        "type": "Maxi Dress",
+        "color": "Red",
+        "brand": "Brand H",
+        "occasion": "Party",
+        "file_path": "/path/to/red_maxi_dress.jpg",
+        "user_id": "2",
+        "category_id": "dresses_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Outerwear",
+        "type": "Coat",
+        "color": "Red",
+        "brand": "Brand B",
+        "occasion": "Formal",
+        "file_path": "/path/to/red_coat.jpg",
+        "user_id": "7",
+        "category_id": "outerwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Footwear",
+        "type": "Sneakers",
+        "color": "Yellow",
+        "brand": "Brand I",
+        "occasion": "Party",
+        "file_path": "/path/to/yellow_sneakers.jpg",
+        "user_id": "10",
+        "category_id": "footwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Dresses",
+        "type": "Maxi Dress",
+        "color": "Yellow",
+        "brand": "Brand C",
+        "occasion": "Outdoor",
+        "file_path": "/path/to/yellow_maxi_dress.jpg",
+        "user_id": "7",
+        "category_id": "dresses_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Bottoms",
+        "type": "Jeans",
+        "color": "Purple",
+        "brand": "Brand A",
+        "occasion": "Sport",
+        "file_path": "/path/to/purple_jeans.jpg",
+        "user_id": "2",
+        "category_id": "bottoms_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Dresses",
+        "type": "Maxi Dress",
+        "color": "Red",
+        "brand": "Brand C",
+        "occasion": "Sport",
+        "file_path": "/path/to/red_maxi_dress.jpg",
+        "user_id": "3",
+        "category_id": "dresses_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Footwear",
+        "type": "Boots",
+        "color": "Brown",
+        "brand": "Brand G",
+        "occasion": "Formal",
+        "file_path": "/path/to/brown_boots.jpg",
+        "user_id": "8",
+        "category_id": "footwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Outerwear",
+        "type": "Blazer",
+        "color": "Purple",
+        "brand": "Brand A",
+        "occasion": "Outdoor",
+        "file_path": "/path/to/purple_blazer.jpg",
+        "user_id": "7",
+        "category_id": "outerwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Footwear",
+        "type": "Sneakers",
+        "color": "Black",
+        "brand": "Brand G",
+        "occasion": "Party",
+        "file_path": "/path/to/black_sneakers.jpg",
+        "user_id": "10",
+        "category_id": "footwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Outerwear",
+        "type": "Blazer",
+        "color": "White",
+        "brand": "Brand I",
+        "occasion": "Party",
+        "file_path": "/path/to/white_blazer.jpg",
+        "user_id": "5",
+        "category_id": "outerwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Footwear",
+        "type": "Sandals",
+        "color": "Green",
+        "brand": "Brand D",
+        "occasion": "Party",
+        "file_path": "/path/to/green_sandals.jpg",
+        "user_id": "5",
+        "category_id": "footwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Footwear",
+        "type": "Sneakers",
+        "color": "White",
+        "brand": "Brand B",
+        "occasion": "Sport",
+        "file_path": "/path/to/white_sneakers.jpg",
+        "user_id": "5",
+        "category_id": "footwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Tops",
+        "type": "T-shirt",
+        "color": "Yellow",
+        "brand": "Brand D",
+        "occasion": "Sport",
+        "file_path": "/path/to/yellow_t-shirt.jpg",
+        "user_id": "8",
+        "category_id": "tops_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Bottoms",
+        "type": "Jeans",
+        "color": "Green",
+        "brand": "Brand G",
+        "occasion": "Formal",
+        "file_path": "/path/to/green_jeans.jpg",
+        "user_id": "2",
+        "category_id": "bottoms_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Tops",
+        "type": "Sweater",
+        "color": "White",
+        "brand": "Brand H",
+        "occasion": "Party",
+        "file_path": "/path/to/white_sweater.jpg",
+        "user_id": "1",
+        "category_id": "tops_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Tops",
+        "type": "Blouse",
+        "color": "Grey",
+        "brand": "Brand C",
+        "occasion": "Formal",
+        "file_path": "/path/to/grey_blouse.jpg",
+        "user_id": "4",
+        "category_id": "tops_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Dresses",
+        "type": "Sundress",
+        "color": "Red",
+        "brand": "Brand C",
+        "occasion": "Party",
+        "file_path": "/path/to/red_sundress.jpg",
+        "user_id": "1",
+        "category_id": "dresses_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Outerwear",
+        "type": "Coat",
+        "color": "Blue",
+        "brand": "Brand C",
+        "occasion": "Casual",
+        "file_path": "/path/to/blue_coat.jpg",
+        "user_id": "9",
+        "category_id": "outerwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Outerwear",
+        "type": "Raincoat",
+        "color": "Blue",
+        "brand": "Brand D",
+        "occasion": "Outdoor",
+        "file_path": "/path/to/blue_raincoat.jpg",
+        "user_id": "7",
+        "category_id": "outerwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Outerwear",
+        "type": "Jacket",
+        "color": "Red",
+        "brand": "Brand E",
+        "occasion": "Party",
+        "file_path": "/path/to/red_jacket.jpg",
+        "user_id": "1",
+        "category_id": "outerwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Tops",
+        "type": "Blouse",
+        "color": "Black",
+        "brand": "Brand G",
+        "occasion": "Outdoor",
+        "file_path": "/path/to/black_blouse.jpg",
+        "user_id": "3",
+        "category_id": "tops_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Tops",
+        "type": "Blouse",
+        "color": "Brown",
+        "brand": "Brand I",
+        "occasion": "Formal",
+        "file_path": "/path/to/brown_blouse.jpg",
+        "user_id": "7",
+        "category_id": "tops_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Footwear",
+        "type": "Sandals",
+        "color": "Green",
+        "brand": "Brand F",
+        "occasion": "Sport",
+        "file_path": "/path/to/green_sandals.jpg",
+        "user_id": "1",
+        "category_id": "footwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Bottoms",
+        "type": "Skirt",
+        "color": "Brown",
+        "brand": "Brand F",
+        "occasion": "Formal",
+        "file_path": "/path/to/brown_skirt.jpg",
+        "user_id": "5",
+        "category_id": "bottoms_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Tops",
+        "type": "Sweater",
+        "color": "Black",
+        "brand": "Brand G",
+        "occasion": "Casual",
+        "file_path": "/path/to/black_sweater.jpg",
+        "user_id": "10",
+        "category_id": "tops_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Dresses",
+        "type": "Evening Gown",
+        "color": "Black",
+        "brand": "Brand E",
+        "occasion": "Formal",
+        "file_path": "/path/to/black_evening_gown.jpg",
+        "user_id": "4",
+        "category_id": "dresses_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Dresses",
+        "type": "Cocktail Dress",
+        "color": "Blue",
+        "brand": "Brand B",
+        "occasion": "Party",
+        "file_path": "/path/to/blue_cocktail_dress.jpg",
+        "user_id": "10",
+        "category_id": "dresses_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Footwear",
+        "type": "Sandals",
+        "color": "White",
+        "brand": "Brand I",
+        "occasion": "Sport",
+        "file_path": "/path/to/white_sandals.jpg",
+        "user_id": "4",
+        "category_id": "footwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Dresses",
+        "type": "Maxi Dress",
+        "color": "Grey",
+        "brand": "Brand H",
+        "occasion": "Party",
+        "file_path": "/path/to/grey_maxi_dress.jpg",
+        "user_id": "5",
+        "category_id": "dresses_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Dresses",
+        "type": "Evening Gown",
+        "color": "Green",
+        "brand": "Brand I",
+        "occasion": "Party",
+        "file_path": "/path/to/green_evening_gown.jpg",
+        "user_id": "1",
+        "category_id": "dresses_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Bottoms",
+        "type": "Trousers",
+        "color": "Yellow",
+        "brand": "Brand D",
+        "occasion": "Party",
+        "file_path": "/path/to/yellow_trousers.jpg",
+        "user_id": "1",
+        "category_id": "bottoms_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Outerwear",
+        "type": "Jacket",
+        "color": "White",
+        "brand": "Brand B",
+        "occasion": "Casual",
+        "file_path": "/path/to/white_jacket.jpg",
+        "user_id": "6",
+        "category_id": "outerwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Dresses",
+        "type": "Cocktail Dress",
+        "color": "Green",
+        "brand": "Brand E",
+        "occasion": "Formal",
+        "file_path": "/path/to/green_cocktail_dress.jpg",
+        "user_id": "5",
+        "category_id": "dresses_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Tops",
+        "type": "Sweater",
+        "color": "Blue",
+        "brand": "Brand C",
+        "occasion": "Casual",
+        "file_path": "/path/to/blue_sweater.jpg",
+        "user_id": "3",
+        "category_id": "tops_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Outerwear",
+        "type": "Coat",
+        "color": "Black",
+        "brand": "Brand I",
+        "occasion": "Sport",
+        "file_path": "/path/to/black_coat.jpg",
+        "user_id": "9",
+        "category_id": "outerwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Bottoms",
+        "type": "Shorts",
+        "color": "Blue",
+        "brand": "Brand E",
+        "occasion": "Sport",
+        "file_path": "/path/to/blue_shorts.jpg",
+        "user_id": "6",
+        "category_id": "bottoms_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Outerwear",
+        "type": "Raincoat",
+        "color": "White",
+        "brand": "Brand C",
+        "occasion": "Sport",
+        "file_path": "/path/to/white_raincoat.jpg",
+        "user_id": "5",
+        "category_id": "outerwear_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Tops",
+        "type": "Cardigan",
+        "color": "White",
+        "brand": "Brand F",
+        "occasion": "Outdoor",
+        "file_path": "/path/to/white_cardigan.jpg",
+        "user_id": "9",
+        "category_id": "tops_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Tops",
+        "type": "Sweater",
+        "color": "Black",
+        "brand": "Brand B",
+        "occasion": "Casual",
+        "file_path": "/path/to/black_sweater.jpg",
+        "user_id": "10",
+        "category_id": "tops_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    },
+    {
+        "category": "Dresses",
+        "type": "Cocktail Dress",
+        "color": "White",
+        "brand": "Brand H",
+        "occasion": "Casual",
+        "file_path": "/path/to/white_cocktail_dress.jpg",
+        "user_id": "4",
+        "category_id": "dresses_id",
+        "sub_category": "default_sub_category",
+        "tags": [
+            "default_tag1",
+            "default_tag2"
+        ]
+    }
+>>>>>>> Stashed changes
 ]

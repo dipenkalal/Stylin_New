@@ -1,5 +1,6 @@
 [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   {
     "category": "Dresses",
     "type": "Cocktail Dress",
@@ -901,6 +902,8 @@
     "user_id": "4"
   }
 =======
+=======
+>>>>>>> Stashed changes
     {
         "category": "Dresses",
         "type": "Cocktail Dress",
@@ -2401,5 +2404,8 @@
             "default_tag2"
         ]
     }
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 ]
